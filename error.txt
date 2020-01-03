@@ -1,0 +1,3780 @@
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:10:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xtock Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/global-monetary-transfer Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/global-players-world Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/global-trust-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/globalboost Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/globalchainz Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/globalcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/globaltoken Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/globalvillage-ecosystem Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/globitex Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/globo-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/glosfer-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/glovecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/glyno Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/gnosis Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/gob-platform Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/gochain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/godzillion Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/goeureka Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/going-gems Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/gold Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/gold-bits-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/gold-latoken Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/gold-pressed-latinum Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/golden-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/goldmaxcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:39:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/golos-gold Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:40:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/gravel-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:40:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/green-energy-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:40:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/greenmed Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:40:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/greenpay-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:40:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/gstcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:40:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/guardium Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:40:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hara-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/healthbeautychain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/heat Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/heath Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/heavylitecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hedera-hashgraph Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hedon Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hedpay Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/heldcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/help-the-homeless-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/help-token-2 Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/henga Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hero-node Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hero-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hhy-network Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hidden-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:14
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/higamecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/high-gain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/high-stakes-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/high-temperature-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/highcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/highlander Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hilux Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hinka Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hintchain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hirevibes Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hitcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hjig-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hl-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hmk-global-economic-circular Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hodlbucks Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hodlcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hold Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:41:15
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hollywoodcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hshare Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/htmlcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hub Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hubbsgold Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hubii-network Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/humanscape Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/huncoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/huni Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hydro Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hydro-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hype-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hyper-speed-network Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hyperexchange Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hyperion Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hyperloot Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hyperquant Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hyperstake Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/hypnoxys Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ibc-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ibtc Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ic-node Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ice-rock-mining Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/icobay-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/icon Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/icos Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/idealcash Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:42:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/idex-membership Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/incakoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/individual-content-and-skill-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/infinitecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/infinitemesh-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/infinitus-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/infinity-economics Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/infinity-pay Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/inflationcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/infliv Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/influway Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/infocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/inheritance Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ink Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/inkchain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/inlock-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/inmax Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/inmediate Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/innovative-bioresearch Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/innovativebioresearchclassic Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/inrdc Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ins-ecosystem Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/insights-network Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/insurchain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/insurepal Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/intelligent-commerce-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/intelligent-internet-of-things-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/intelligent-manufacturing-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/intellishare Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ioscar Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/iot-world Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/iou Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ipgocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ipweb Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/iqeon Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ishook Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/italian-lira Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/itrx Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ittonion Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/itubagus-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/iungo Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ixicash Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ixtz Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/izemcash Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/izetex Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/izichain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/izicoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/jaag-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/jackpot Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/jade-currency Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/jamaicoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/japan-brand-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/javacoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/jetmint Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ioscar Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/iot-world Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/iou Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ipgocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ipweb Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/iqeon Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:43
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ishook Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/italian-lira Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/itrx Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ittonion Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/itubagus-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/iungo Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ixicash Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ixtz Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/izemcash Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/izetex Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/izichain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/izicoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/jaag-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/jackpot Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/jade-currency Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/jamaicoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/japan-brand-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/javacoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 12:43:44
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/jetmint Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:08:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/trias Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:08:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/trinity-network-credit Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xano Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/wysker Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/x-nella Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/x-reis Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xano Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xarucoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xaurum Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xavander-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xceltoken Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xceltoken-plus Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xchain-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xchangerate Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xcom-pay Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xdce-crowd-sale Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xdna Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xdrop-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xevenue-shares Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xfoc Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xio Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xita Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xmax Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xnos Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xov Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xp Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xpa Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xpay-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xponz Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xscoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xtdcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:13:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/xtendcash Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/yeecore Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/yibitcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/yocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/yuki-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zb-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zbb Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zclassic Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zebi Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zenome Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zephyr Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zer-dex Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zero Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/yeecore Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/yibitcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/yocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/yuki-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zb-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zbb Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zclassic Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zebi Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zeitcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zelerius Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zenad Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zengold Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zenome Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zenon Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zent-cash Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zeon Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zephyr Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zer-dex Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zero Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zeroclassic Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zethereum Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zeto Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zg Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zg-blockchain-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zgpoker Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 13:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/zhixin-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:12:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bodhi-eth Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:12:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bokocloud Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:12:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bolenum Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:12:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bolt Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:12:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bolt-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:12:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bomb Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:12:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/boxx Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:12:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bp-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:12:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/brave-sound-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:12:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bt2 Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:13:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bumbacoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:13:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/butterfly Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:13:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/c0ban Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:13:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/c2x Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:13:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/capdax Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:13:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/car-sharing Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/catocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cb-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ccbrother Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ccore Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ccvt Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ccy-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cdai Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cdcc Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cds Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/centurion Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cerium Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cgcx Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chain-finance Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chainium Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chainlink Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chainzilla Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/challengedac Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chancoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/changenow-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/charg-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/charter-foundation Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:06
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chatbit Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chaucha Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cherry-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chiliz Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chimaera Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chronocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chronologic Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/chunghoptoken Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cifculation Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/circuits-of-value Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:07
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/citextoken Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cloud-moolah Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cloud-nodes Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cloudbric Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cloudmediacoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/clubcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cnns Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cobinhood Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cobrabytes Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cognitio Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coimatic-2 Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coin4cast Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinanalyst Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinbene-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinclaim Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coindeal-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coindom Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinfi Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinfirm-amlt Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinjanitor Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinmarketalert Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinmegatrend Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:58
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coino Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinonatx Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinplace Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinscious-network Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cointick Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cointogo Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinvest Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinword-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinzo-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/colletrix Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/color Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/colossuscoin-v2 Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/colossuscoinxt Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cloud-moolah Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cloud-nodes Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cloudbric Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cloudmediacoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/clubcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cnns Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cobinhood Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cobrabytes Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cognitio Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coimatic-2 Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coin4cast Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinanalyst Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinbene-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinclaim Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coindeal-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coindom Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinfi Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinfirm-amlt Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinjanitor Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:14:59
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinmarketalert Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinmegatrend Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coino Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinonatx Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinplace Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinscious-network Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cointick Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/cointogo Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinvest Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinword-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/coinzo-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/colletrix Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/color Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/colossuscoin-v2 Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:15:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/colossuscoinxt Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/n Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nairax-ico Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/naka-bodhi-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/namecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nano Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:08
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nanucoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/narrative Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/native-utility-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nav-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nawras Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ndau Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ndio Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/neal Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/neblidex Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nebulas Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nectar-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/needlecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/needscoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/neetcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nem Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/neo-name-credit Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/neoscoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/neptunecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nerthus Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nervos-network Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nestree Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/netcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/netkoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/netkoin-liquid Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:41:09
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/neuro Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:42:05
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/nullex Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/octocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/octopus Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/oculor Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/odin-blockchain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ombre Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/omega Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/omisego Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/omnes-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/omotenashicoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/one Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/one-genesis Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/one-ledger Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onex Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ong-social Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onix-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/online-expo Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onlychain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onyx-s-p-500 Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/open-platform Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/octocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/octopus Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:02
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/oculor Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/odin-blockchain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/olympus-labs Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ombre Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/omega Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/omisego Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/omnes-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/omotenashicoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/one Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/one-genesis Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/one-ledger Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/one-world-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onegram Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onex Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ong-social Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onix-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/online Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/online-expo Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onlychain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ontology Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onyx-s-p-500 Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onyx-s-p-500-short Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/onyx-usd Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ooobtc-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/opacity Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/opal Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/open-platform Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/open-source-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/open-source-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:03
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/open-trading-network Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:04
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/openbit Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:52
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ordocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:52
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/orlycoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/oxfina Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/pancho-villa-network Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/pandagold Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/pandemia Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/pangea Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/pantos Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/panvala-pan Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/papelcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/paradisecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/parallelcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/parinita-bansode-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/parkbyte Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ordocoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/orlycoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/oxfina Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/pancho-villa-network Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/pandagold Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/pandemia Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/pangea Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/pantos Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/panvala-pan Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/papelcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/paradisecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/parallelcoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/parinita-bansode-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 14:43:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/parkbyte Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/paypie Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/skycoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/universa Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:53
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/b2b Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/tokencard Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/egretia Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/baasid Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bcv Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/time-new-bank Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/electra Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/tratok Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ultrain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ins-ecosystem Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/equilibrium-eosdt Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/paypie Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/skycoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/universa Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/b2b Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/tokencard Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/egretia Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/baasid Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/bcv Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/time-new-bank Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/electra Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/tratok Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ultrain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ins-ecosystem Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/equilibrium-eosdt Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/africa-trading-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agavecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agni-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agora Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agouti Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agriblock Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agricultural-ecological-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aigopay Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/airep Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aitheon Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aivia Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aiw-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ak12 Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/akaiito Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/akroma Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/akropolis Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aladdin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/alchemint Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/alexandrite Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/alibabacoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aliencoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/africa-trading-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agavecoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agni-coin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agora Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agouti Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agriblock Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/agricultural-ecological-chain Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aigopay Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/airep Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aitheon Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aivia Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aiw-token Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:00
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/ak12 Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:01
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/akaiito Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:01
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/akroma Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:01
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/akropolis Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:01
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aladdin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:01
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/alchemint Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:01
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/alexandrite Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:01
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/alibabacoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * *
+>>> Date: 2019-12-09 15:16:01
+>>> File: C:\wamp64\www\Coin\function.php
+>>> Line: 121
+>>> Message: Get contents from https://api.coingecko.com/api/v3/coins/aliencoin Failed!
+* * * * * * * * * * * * * * * * * * * * * * * * *
+

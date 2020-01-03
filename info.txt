@@ -1,0 +1,98 @@
+=======================================================
+>>> Date: 2019-12-09 13:14:15
+>>> File: C:\wamp64\www\Coin\CoinDB.php
+>>> Line: 245
+>>> Message: Success! 342 row inserted to coins_data table
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 13:29:18
+>>> File: C:\wamp64\www\Coin\CoinDB.php
+>>> Line: 166
+>>> Message: Success! 310 rows updated
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 14:57:54
+>>> File: C:\wamp64\www\Coin\Toprank.php
+>>> Line: 21
+>>> Message: Daily Updating in progress so exit from TopRank Updating
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 14:58:38
+>>> File: C:\wamp64\www\Coin\Toprank.php
+>>> Line: 21
+>>> Message: Daily Updating in progress so exit from TopRank's Updating
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 15:06:19
+>>> File: C:\wamp64\www\Coin\CoinDB.php
+>>> Line: 257
+>>> Message: Success! 253 row inserted to coins_data table
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 15:06:19
+>>> File: C:\wamp64\www\Coin\CoinDB.php
+>>> Line: 292
+>>> Message: Success! 6543 row deleted from coins_data table
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 15:10:54
+>>> File: C:\wamp64\www\Coin\Update.php
+>>> Line: 19
+>>> Message: Top Rank is in updating so sleeping afew minutes...
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 15:11:22
+>>> File: C:\wamp64\www\Coin\Update.php
+>>> Line: 19
+>>> Message: Top Rank is in updating so sleeping afew minutes...
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 15:13:38
+>>> File: C:\wamp64\www\Coin\Update.php
+>>> Line: 19
+>>> Message: Top Rank is in updating so sleeping afew minutes...
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 15:13:54
+>>> File: C:\wamp64\www\Coin\CoinDB.php
+>>> Line: 182
+>>> Message: Success! 298 rows updated
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 15:15:42
+>>> File: C:\wamp64\www\Coin\Toprank.php
+>>> Line: 21
+>>> Message: Daily Updating in progress so exit from TopRank's Updating
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 15:17:23
+>>> File: C:\wamp64\www\Coin\Update.php
+>>> Line: 19
+>>> Message: Top Rank is in updating so sleeping afew minutes...
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 15:18:23
+>>> File: C:\wamp64\www\Coin\CoinDB.php
+>>> Line: 101
+>>> Message: Sleep again...
+=======================================================
+
+=======================================================
+>>> Date: 2019-12-09 15:19:19
+>>> File: C:\wamp64\www\Coin\CoinDB.php
+>>> Line: 182
+>>> Message: Success! 292 rows updated
+=======================================================
+
